@@ -33,8 +33,8 @@ ___
         </a>
       </td>
       <td>
-        <a href="https://dmswnlee.github.io/movie_app/" title="movie app">
-        <img align="center" src="./movie.png" width="300" height="150" alt-text="movie react app">
+        <a href="https://unique-boba-607005.netlify.app" title="todo app">
+        <img align="center" src="[./movie.png](https://github.com/dmswnlee/todo-app/blob/main/src/img/01.png?raw=true)" width="300" height="150" alt-text="todo react app">
           </a>
       </td>
     </tr>
